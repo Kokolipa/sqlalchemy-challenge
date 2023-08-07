@@ -1,7 +1,7 @@
 # SQLalchemy & Flask: API Creation and Climate Analysis 
 
 ### Project description:
-* Using SQLAlchemy to do basic climate analysis and data exploration. Specifically using SQLAlchemy ORM queries, Pandas, and Matplotlib. 
+Using SQLAlchemy to do basic climate analysis and data exploration. Specifically using SQLAlchemy ORM queries, Pandas, and Matplotlib. 
 
 Based on the above analysis, I have created a Flask API and based it on the ORM queries developed in the section above. The API includes the following routes: 
 * '/' Route
