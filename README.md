@@ -10,8 +10,8 @@ Based on the above analysis, I have created a Flask API and based it on the ORM 
 * **'/api/v1.0/stations'** Route
 * **'/api/v1.0/tobs'** Route
 * Dynamic routes (user based input):
-    * **'/api/v1.0/<start>'** Route -> This will provide the minimum, maximum, and average temperature from the specified startdate onwards. 
-    * **'/api/v1.0/<start>/<end>'** -> This will provide the minimum, maximum, and average temperature from the specified startdate to the specified end date. 
+    * **'/api/v1.0/start'** Route -> This will provide the minimum, maximum, and average temperature from the specified startdate onwards. 
+    * **'/api/v1.0/start/end'** -> This will provide the minimum, maximum, and average temperature from the specified startdate to the specified end date. 
 
 
 ### Analysis Images
